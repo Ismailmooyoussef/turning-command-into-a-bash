@@ -1,7 +1,7 @@
 # turning-command-into-a-bash
 
 
-
+Your supervisor is tired of having to accept the RSA key fingerprint every time they log in to a new hands-on lab. They've asked you to write a shell script that can be run from their local Linux desktop to connect to these servers without prompting to accept the key.
 
 
 
